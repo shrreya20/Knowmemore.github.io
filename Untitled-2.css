@@ -5,7 +5,7 @@
 }
 .header {
   min-height: 100vh;
-  width: 222vh;
+  width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.575)),
     url(images/dark-1845065_1920.jpg);
   background-position: center;
